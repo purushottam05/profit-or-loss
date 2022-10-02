@@ -1,3 +1,1 @@
-# profit-or-loss
- 
- Enter the amount and check if you made a Proft or not
+A tool to check whether you have made Profit or Loss in Stock Market

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
 
 * {
   padding: 0;
@@ -7,11 +7,11 @@
 }
 
 :root {
-  --primary-color: #7c3aed;
+  --primary-color: #3ad2ed;
 }
 
 body {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Roboto";
   text-align: center;
 }
 
@@ -23,7 +23,7 @@ li {
   list-style: none;
 }
 
-/* Header */
+
 header h1 {
   text-align: center;
   margin: 2rem;
@@ -34,6 +34,7 @@ header h1 {
   font-size: larger;
   margin: 2rem 0px;
   font-weight: 600;
+  font-family: "Roboto";
 }
 
 .input {
@@ -46,6 +47,7 @@ header h1 {
   border-radius: 0.5rem;
   width: 100%;
   max-width: 325px;
+  font-family: "Roboto";
 }
 
 .btn-check {
@@ -59,15 +61,16 @@ header h1 {
   outline: #fff;
   margin: auto;
   display: block;
+  font-family: "Roboto";
 }
 
 .output {
   font-size: x-large;
   font-weight: 600;
   margin: 2rem 0;
+  font-family: "Roboto";
 }
 
-/* Footer */
 
 footer {
   text-align: center;
